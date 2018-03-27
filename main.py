@@ -25,5 +25,4 @@ plt.clf()
 plt.plot(times, valA,  'b-', linewidth = 2.0)
 plt.plot(times, valB, 'b-', linewidth = 2.0)
 plt.ticklabel_format(style="plain")
-
 plt.show()
